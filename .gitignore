@@ -1,0 +1,27 @@
+# macOS System Files
+.DS_Store
+
+# Output Images
+plot.png
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# Other Python Junk
+*.egg-info/
+.eggs/
+dist/
+build/
